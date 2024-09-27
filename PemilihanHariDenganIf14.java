@@ -1,7 +1,7 @@
 package Praktikum04;
 import java.util.Scanner;
 
-public class PemilihanHariDenganIf {
+public class PemilihanHariDenganIf14 {
     
     public static void main(String[] args) {
         
